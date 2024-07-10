@@ -1,7 +1,5 @@
 /*******************************************************************************
  * Filter Algorithms for Java BufferedImage
- * (c) 2023, Joe James
- * 
  * This program loads an image file. It has methods to:  
  *  - display the image in a JPanel popup window; 
  *  - convert the image to grayscale;
@@ -10,14 +8,6 @@
  *  - apply a Gaussian blur to a grayscale image;
  *  - detect edges of a grayscale image;
  *  - brighten a color image.
- * 
- * These files are mainly intended to accompany my series of YouTube tutorial 
- * videos here, https://www.youtube.com/user/joejamesusa and are mainly 
- * intended for educational purposes. You are invited to subscribe to my 
- * video channel, and to download and use any code in this Java 
- * repository, according to the MIT License. Feel free to post any comments 
- * on my YouTube channel. 
- * 
  * ****************************************************************************/
 
 import java.util.*;
